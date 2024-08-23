@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Magdalene
-- 👀 I’m interested in web development
-- 🌱 <I’m currently learning HTML, just took my first to the front end developer journey.> ="Come Along and Follow my Journey" </>
+- 👀 I’m a Front-end developer
+- 🌱 <>check out my growth</>
 - 📫 How to reach me magdalenrnsiah@gmail.com
 
 <!---
